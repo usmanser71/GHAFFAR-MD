@@ -14,7 +14,7 @@ cmd({
     filename: __filename,
 },
 async (conn, mek, m, { from, reply }) => {
-    const githubRepoURL = 'https://github.com/JawadYT36/KHAN-MD';
+    const githubRepoURL = 'https://github.com/powerseventel3-ai/GHAFFAR-MD';
 
     try {
         // Extract username and repo name from the URL
@@ -27,34 +27,34 @@ async (conn, mek, m, { from, reply }) => {
 
         // Format the repository information in new stylish format
         const formattedInfo = `
-╭─〔 *KHAN-MD REPOSITORY* 〕
+╭─〔 *GHAFFAR-MD REPOSITORY* 〕
 │
 ├─ *📌 Repository Name:* ${repoData.name}
-├─ *👑 Owner:* JawadYT36
+├─ *👑 Owner:* Ghaffar💀💗
 ├─ *⭐ Stars:* ${repoData.stargazers_count}
 ├─ *⑂ Forks:* ${repoData.forks_count}
-├─ *📝 Description:* ${repoData.description || 'World Best WhatsApp Bot powered by JawadTechX'}
+├─ *📝 Description:* ${repoData.description || 'World Best WhatsApp Bot powered by Ghaffartech'}
 │
 ├─ *🔗 GitHub Link:*
 │   ${repoData.html_url}
 │
 ├─ *🌐 Join Channel:*
-│   https://whatsapp.com/channel/0029VatOy2EAzNc2WcShQw1j
+│   https://whatsapp.com/channel/0029Vb7B2PMDZ4LUrhrNBa3A
 │
-╰─ *⚡ Powered by KHAN-MD*
+╰─ *💗 Powered by GHAFFAR-MD*
 `.trim();
 
         // Send an image with the formatted info as a caption
         await conn.sendMessage(from, {
-            image: { url: `https://files.catbox.moe/7zfdcq.jpg` }, // Replace with your image URL
+            image: { url: `https://files.catbox.moe/d6lzdl.jpg` }, // Replace with your image URL
             caption: formattedInfo,
             contextInfo: { 
                 mentionedJid: [m.sender],
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363354023106228@newsletter',
-                    newsletterName: 'KHAN-MD',
+                    newsletterJid: '120363403004432866@newsletter',
+                    newsletterName: 'GHAFFAR-MD',
                     serverMessageId: 143
                 }
             }
