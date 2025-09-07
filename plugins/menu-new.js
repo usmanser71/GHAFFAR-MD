@@ -7,8 +7,8 @@ const commonContextInfo = (sender) => ({
     forwardingScore: 999,
     isForwarded: true,
     forwardedNewsletterMessageInfo: {
-        newsletterJid: '120363354023106228@newsletter',
-        newsletterName: 'JawadTechX',
+        newsletterJid: '120363403004432866@newsletter',
+        newsletterName: 'Ghaffartech',
         serverMessageId: 143
     }
 });
@@ -23,8 +23,8 @@ cmd({
 async (conn, mek, m, { from, sender, pushname, reply }) => {
     try {
         let totalCommands = Object.keys(commands).length;
-        const caption = `*╭────⬡ ${config.BOT_NAME} ⬡────*
-*├▢ 🔸 Owner:* ${config.OWNER_NAME}
+        const caption = `*╭────⬡ ${config.GHAFFAR_MD} ⬡────*
+*├▢ 🔸 Owner:* ${config.GHAFFAR_MD}
 *├▢ 🔸 Prefix:* ${config.PREFIX}
 *├▢ 🔸 Version:* 5.0.0 Beta
 *├▢ 🔸 Platform:* Heroku
