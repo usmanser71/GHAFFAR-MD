@@ -18,8 +18,8 @@ filename: __filename
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
 try {
 let totalCommands = Object.keys(commands).length;
-let dec = `*╭────⬡ ${config.BOT_NAME} ⬡────⭓* 
-*├▢ 🤖 Owner:* ${config.OWNER_NAME}
+let dec = `*╭────⬡ ${config.GHAFFAR_MD} ⬡────⭓* 
+*├▢ 🤖 Owner:* ${config.GHAFFAR_MD}
 *├▢ 📜 Commands:* ${totalCommands}
 *├▢ ⏱️ Runtime:* ${runtime(process.uptime())}
 *├▢ 📡 Baileys:* Multi Device
@@ -325,15 +325,15 @@ let dec = `*╭────⬡ ${config.BOT_NAME} ⬡────⭓*
 ${config.DESCRIPTION}`;
 
 await conn.sendMessage(from, { 
-    image: { url: config.MENU_IMAGE_URL || 'https://files.catbox.moe/7zfdcq.jpg' }, 
+    image: { url: config.MENU_IMAGE_URL || 'https://files.catbox.moe/d6lzdl.jpg' }, 
     caption: dec, 
     contextInfo: { 
         mentionedJid: [m.sender], 
         forwardingScore: 999, 
         isForwarded: true, 
         forwardedNewsletterMessageInfo: { 
-            newsletterJid: '120363354023106228@newsletter', 
-            newsletterName: config.BOT_NAME, 
+            newsletterJid: '120363403004432866@newsletter', 
+            newsletterName: config.GHAFFAR_MD, 
             serverMessageId: 143 
         } 
     } 
