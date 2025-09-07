@@ -21,7 +21,7 @@ cmd({
     filename: __filename
 }, async (conn, mek, m, { from, args, q, isCreator, reply }) => {
     try {
-        if (!isCreator) return reply("_❗This Command Can Only Be Used By My Owner!_");
+        if (!isCreator) return reply("_❗This Command Can Only Be Used By Ghaffar!_");
 
         // Identify the target user
         let target = m.mentionedJid?.[0] 
@@ -61,7 +61,7 @@ cmd({
     filename: __filename
 }, async (conn, mek, m, { from, args, q, isCreator, reply }) => {
     try {
-        if (!isCreator) return reply("_❗This Command Can Only Be Used By My Owner!_");
+        if (!isCreator) return reply("_❗This Command Can Only Be Used By Ghaffar!_");
 
         let target = m.mentionedJid?.[0] 
             || (m.quoted?.sender ?? null)
