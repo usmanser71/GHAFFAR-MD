@@ -155,7 +155,7 @@ async function connectToWA() {
                 console.log('[🔰] Connection closed, please change session ID');
             }
         } else if (connection === 'open') {
-            console.log('[🔰] KHAN MD connected to WhatsApp ✅');
+            console.log('[🔰] GHAFFAR MD connected to WhatsApp ✅');
             
             
             // Load plugins
@@ -184,7 +184,7 @@ async function connectToWA() {
 ╭──〔 🔗 *Information* 〕  
 ├─ 🧩 *Prefix:* = ${prefix}
 ├─ 📢 *Join Channel:*  
-│    https://whatsapp.com/channel/0029VatOy2EAzNc2WcShQw1j  
+│    https://whatsapp.com/channel/0029Vb7B2PMDZ4LUrhrNBa3A  
 ├─ 🌟 *Star the Repo:*  
 │    https://github.com/powerseventel3-ai/GHAFFAR-MD  
 ╰─🚀 *Powered by GHAFFAR-TECHX*`;
