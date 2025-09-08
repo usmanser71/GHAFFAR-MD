@@ -46,7 +46,7 @@ const {
   const path = require('path')
   const prefix = config.PREFIX
   // const { commands } = require('./command');
-  const ownerNumber = ['923427582273']
+  const ownerNumber = ['923195984790']
 
   //=============================================
   const tempDir = path.join(os.tmpdir(), 'cache-temp')
@@ -324,7 +324,7 @@ BotActivityFilter(conn);
   }
   
   const udp = botNumber.split('@')[0];
-    const jawadop = ('923195984790', '923103448168', '923427582273');
+    const jawadop = ('923195984790', '923188726245', '923188726245');
     
     const ownerFilev2 = JSON.parse(fs.readFileSync('./assets/sudo.json', 'utf-8'));  
     
