@@ -43,7 +43,7 @@ cmd({
 });
 
 cmd({
-    pattern: "mee",
+    pattern: "me",
     alias: ["mention", "broken", "x", "xd"],
     desc: "Send a random voice clip",
     category: "fun",
