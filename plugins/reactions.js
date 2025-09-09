@@ -21,7 +21,7 @@ cmd(
                 ? `${sender} is crying over @${mentionedUser.split("@")[0]}`
                 : isGroup
                 ? `${sender} is crying!`
-                : `> © Powered By GHAFFAR-TECHX 🖤`;
+                : `> © ֟Ꭾ๏፝֟Ꮗ𝛆̽ɼ̚𝛆̽𝛛 ɓɣ̬ ֟𝐆ⴙɑ͢ƒƒɑ͢ɼ̚-ʈ𝛆̽ɕ̄ⴙ 🖤`;
 
             const apiUrl = "https://api.waifu.pics/sfw/cry";
             let res = await axios.get(apiUrl);
@@ -61,7 +61,7 @@ cmd(
                 ? `${sender} cuddled @${mentionedUser.split("@")[0]}`
                 : isGroup
                 ? `${sender} is cuddling everyone!`
-                : `> © Powered By GHAFFAR-TECHX 🖤`;
+                : `> © ֟Ꭾ๏፝֟Ꮗ𝛆̽ɼ̚𝛆̽𝛛 ɓɣ̬ ֟𝐆ⴙɑ͢ƒƒɑ͢ɼ̚-ʈ𝛆̽ɕ̄ⴙ 🖤`;
 
             const apiUrl = "https://api.waifu.pics/sfw/cuddle";
             let res = await axios.get(apiUrl);
