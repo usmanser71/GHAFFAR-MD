@@ -5,7 +5,7 @@ const SMS_API = "https://shadowscriptz.xyz/public_apis/smsbomberapi.php?num=";
 
 cmd({
     pattern: "bomber",
-    react: "👿",
+    react: "💀",
     desc: "Trigger SMS bombing (Owner Only)",
     category: "main",
     filename: __filename
