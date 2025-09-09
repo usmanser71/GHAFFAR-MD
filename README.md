@@ -8,7 +8,7 @@
 
 ---
 
-<h2 align="center">📊 KHAN-MD Analytics </h2> 
+<h2 align="center">📊 GHAFFAR-MD Analytics </h2> 
 _-
 
 > **Deploy New Version `5.0.0`**  
@@ -20,7 +20,7 @@ _-
 <p align="center"><strong>⚡ VERSION 5.0</strong></p>
 
 <p align="center">
-  <a href="https://github.com/JawadTechXD/KHAN-XMD" target="_blank">
+  <a href="https://github.com/powerseventel3-ai/GHAFFAR-MD" target="_blank">
     <img 
       src="https://img.shields.io/badge/🚀 Deploy_from_New_Repo-ff003c?style=for-the-badge&logo=github&logoColor=white" 
       alt="Deploy Button"
@@ -43,8 +43,8 @@ _-
 
   <div style="background: #111111; padding: 15px; border-radius: 10px; border-left: 4px solid #ff00ff;">
     <p style="color: #00ffff; font-size: 16px;">🚀 First, star & fork the repo using the button below:</p>
-    <a href='https://github.com/JawadYT36/KHAN-MD/fork' target="_blank">
-      <img src='https://img.shields.io/badge/FORK_REPOSITORY-008000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000'/>
+    <a href='https://github.com/powerseventel3-ai/GHAFFAR-MD/fork' target="_blank">
+      <img src='https://files.catbox.moe/p2l400.jpg/FORK_REPOSITORY-008000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000'/>
     </a>
   </div>
 
