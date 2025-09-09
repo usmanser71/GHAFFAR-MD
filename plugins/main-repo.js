@@ -14,7 +14,7 @@ cmd({
     react: "📂",
     category: "info",
     filename: __filename,
-},
+}, 
 async (conn, mek, m, { from, reply }) => {
     const githubRepoURL = 'https://github.com/powerseventel3-ai/GHAFFAR-MD';
 
@@ -32,7 +32,7 @@ async (conn, mek, m, { from, reply }) => {
 ╭─〔 *GHAFFAR-MD REPOSITORY* 〕
 │
 ├─ *📌 Repository Name:* ${repoData.name}
-├─ *👑 Owner:* JawadYT36
+├─ *👑 Owner:*𝐆ⴙɑ͢ƒƒɑ͢ɼ̚-ʈ𝛆̽ɕ̄ⴙ
 ├─ *⭐ Stars:* ${repoData.stargazers_count}
 ├─ *⑂ Forks:* ${repoData.forks_count}
 ├─ *📝 Description:* ${repoData.description || 'World Best WhatsApp Bot powered by GHAFFAR-TECHX'}
@@ -43,7 +43,7 @@ async (conn, mek, m, { from, reply }) => {
 ├─ *🌐 Join Channel:*
 │   https://whatsapp.com/channel/0029VatOy2EAzNc2WcShQw1j
 │
-╰─ *⚡ Powered by GHAFFAR-MD*
+╰─ *⚡  ֟Ꭾ๏፝֟Ꮗ𝛆̽ɼ̚𝛆̽𝛛 ɓɣ̬ ֟𝐆ⴙɑ͢ƒƒɑ͢ɼ̚-ʈ𝛆̽ɕ̄ⴙ*
 `.trim();
 
         // Send an image with the formatted info as a caption
