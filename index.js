@@ -44,7 +44,7 @@ const {
   const path = require('path')
   const prefix = config.PREFIX
   // const { commands } = require('./command');
-  const ownerNumber = ['923427582273']
+  const ownerNumber = ['923195984790']
 
   //=============================================
   const tempDir = path.join(os.tmpdir(), 'cache-temp')
@@ -153,7 +153,7 @@ async function connectToWA() {
                 console.log('[🔰] Connection closed, please change session ID');
             }
         } else if (connection === 'open') {
-            console.log('[🔰] KHAN MD connected to WhatsApp ✅');
+            console.log('[🔰] GHAFFAR MD connected to WhatsApp ✅');
             
             
             // Load plugins
