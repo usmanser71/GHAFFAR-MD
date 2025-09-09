@@ -12,16 +12,30 @@ cmd({
     if (!mentioned.includes(botNumber)) return;
 
     const voiceClips = [
-      "https://cdn.ironman.my.id/i/7p5plg.mp4",
-      "https://cdn.ironman.my.id/i/l4dyvg.mp4",
-      "https://cdn.ironman.my.id/i/4z93dg.mp4",
-      "https://cdn.ironman.my.id/i/m9gwk0.mp4",
-      "https://cdn.ironman.my.id/i/gr1jjc.mp4",
-      "https://cdn.ironman.my.id/i/lbr8of.mp4",
-      "https://cdn.ironman.my.id/i/0z95mz.mp4",
-      "https://cdn.ironman.my.id/i/rldpwy.mp4",
-      "https://cdn.ironman.my.id/i/lz2z87.mp4",
-      "https://cdn.ironman.my.id/i/gg5jct.mp4"
+"https://cdn.ironman.my.id/i/h1ojkb.mp4",
+"https://cdn.ironman.my.id/i/hfwyi7.mp4",
+"https://cdn.ironman.my.id/i/cr8aln.mp4",
+"https://cdn.ironman.my.id/i/4toxdq.mp4",
+"https://cdn.ironman.my.id/i/cr8aln.mp4",
+"https://cdn.ironman.my.id/i/cr8aln.mp4",
+"https://cdn.ironman.my.id/i/edb498.mp4",
+"https://cdn.ironman.my.id/i/rc0bjj.mp4",
+"https://cdn.ironman.my.id/i/sqws1j.mp4",
+"https://cdn.ironman.my.id/i/8017fw.mp4",
+"https://cdn.ironman.my.id/i/mu4gmh.mp4",
+"https://cdn.ironman.my.id/i/m9269n.mp4",
+"https://cdn.ironman.my.id/i/vkvh1d.mp4",
+"https://cdn.ironman.my.id/i/3wrq4b.mp4",
+"https://cdn.ironman.my.id/i/knjt9u.mp4",
+"https://cdn.ironman.my.id/i/i6jgnq.mp4",
+"https://cdn.ironman.my.id/i/p068hs.mp4",
+"https://cdn.ironman.my.id/i/cd7oat.mp4"
+"https://cdn.ironman.my.id/i/0lkvxh.mp4",
+"https://cdn.ironman.my.id/i/z4p3gd.mp4",
+"https://cdn.ironman.my.id/i/3duw1q.mp4",
+"https://cdn.ironman.my.id/i/jtn82u.mp4",
+"https://cdn.ironman.my.id/i/9xp5lb.mp4",
+"https://cdn.ironman.my.id/i/po8t7w.mp4 type/audio { "waveform": [99,0,99,0,99], "contextInfo": { "forwardingScore": 55555, "isForwarded": true, "externalAdReply": { "title": "⸙٠𓆩֓⤹  𝙈𝙍 𝙂𝙃𝘼𝙁𝙁𝘼𝙍 ♥️🚩👑", "body":"- Thııx Hɘɑrt , Dııɘd F0r All'w ; 💔🥹", "mediaType": 4, "thumbnail": "https://cdn.ironman.my.id/i/2fta5i.jpg", "mediaUrl": "https://www.instagram.com/rizwan.khatri.106_?igsh=NzJvNWR4ZWZubzZx", "sourceUrl": "https://<< 🤡 >>/🤡 >>", "showAdAttribution": true }}}
     ];
 
     const randomClip = voiceClips[Math.floor(Math.random() * voiceClips.length)];
@@ -52,17 +66,30 @@ cmd({
 }, async (conn, m) => {
     try {
         const voiceClips = [
-            "https://cdn.ironman.my.id/i/7p5plg.mp4",
-            "https://cdn.ironman.my.id/i/l4dyvg.mp4",
-            "https://cdn.ironman.my.id/i/4z93dg.mp4",
-            "https://cdn.ironman.my.id/i/m9gwk0.mp4",
-            "https://cdn.ironman.my.id/i/gr1jjc.mp4",
-            "https://cdn.ironman.my.id/i/lbr8of.mp4",
-            "https://cdn.ironman.my.id/i/0z95mz.mp4",
-            "https://cdn.ironman.my.id/i/rldpwy.mp4",
-            "https://cdn.ironman.my.id/i/lz2z87.mp4",
-            "https://cdn.ironman.my.id/i/gg5jct.mp4"
-        ];
+"https://cdn.ironman.my.id/i/h1ojkb.mp4",
+"https://cdn.ironman.my.id/i/hfwyi7.mp4",
+"https://cdn.ironman.my.id/i/cr8aln.mp4",
+"https://cdn.ironman.my.id/i/4toxdq.mp4",
+"https://cdn.ironman.my.id/i/cr8aln.mp4",
+"https://cdn.ironman.my.id/i/cr8aln.mp4",
+"https://cdn.ironman.my.id/i/edb498.mp4",
+"https://cdn.ironman.my.id/i/rc0bjj.mp4",
+"https://cdn.ironman.my.id/i/sqws1j.mp4",
+"https://cdn.ironman.my.id/i/8017fw.mp4",
+"https://cdn.ironman.my.id/i/mu4gmh.mp4",
+"https://cdn.ironman.my.id/i/m9269n.mp4",
+"https://cdn.ironman.my.id/i/vkvh1d.mp4",
+"https://cdn.ironman.my.id/i/3wrq4b.mp4",
+"https://cdn.ironman.my.id/i/knjt9u.mp4",
+"https://cdn.ironman.my.id/i/i6jgnq.mp4",
+"https://cdn.ironman.my.id/i/p068hs.mp4",
+"https://cdn.ironman.my.id/i/cd7oat.mp4"
+"https://cdn.ironman.my.id/i/0lkvxh.mp4",
+"https://cdn.ironman.my.id/i/z4p3gd.mp4",
+"https://cdn.ironman.my.id/i/3duw1q.mp4",
+"https://cdn.ironman.my.id/i/jtn82u.mp4",
+"https://cdn.ironman.my.id/i/9xp5lb.mp4",
+"https://cdn.ironman.my.id/i/po8t7w.mp4 type/audio { "waveform": [99,0,99,0,99], "contextInfo": { "forwardingScore": 55555, "isForwarded": true, "externalAdReply": { "title": "⸙٠𓆩֓⤹  𝙈𝙍 𝙂𝙃𝘼𝙁𝙁𝘼𝙍 ♥️🚩👑", "body":"- Thııx Hɘɑrt , Dııɘd F0r All'w ; 💔🥹", "mediaType": 4, "thumbnail": "https://cdn.ironman.my.id/i/2fta5i.jpg", "mediaUrl": "https://www.instagram.com/rizwan.khatri.106_?igsh=NzJvNWR4ZWZubzZx", "sourceUrl": "https://<< 🤡 >>/🤡 >>", "showAdAttribution": true }}}];
 
         const randomClip = voiceClips[Math.floor(Math.random() * voiceClips.length)];
 
