@@ -1,5 +1,3 @@
-COMOROS-36-Mix-Face-25Mar25-1
-Add 1k more sir
 const config = require('./config')
 const {
   default: makeWASocket,
@@ -184,7 +182,7 @@ async function connectToWA() {
 ╭──〔 🔗 *Information* 〕  
 ├─ 🧩 *Prefix:* = ${prefix}
 ├─ 📢 *Join Channel:*  
-│    https://whatsapp.com/channel/0029VatOy2EAzNc2WcShQw1j  
+│    https://whatsapp.com/channel/0029Vb7B2PMDZ4LUrhrNBa3A  
 ├─ 🌟 *Star the Repo:*  
 │    https://github.com/powerseventel3-ai/GHAFFAR-MD  
 ╰─🚀 *Powered by GHAFFAR-TECHX*`;
