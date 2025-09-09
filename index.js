@@ -1,5 +1,3 @@
-COMOROS-36-Mix-Face-25Mar25-1
-Add 1k more sir
 const config = require('./config')
 const {
   default: makeWASocket,
