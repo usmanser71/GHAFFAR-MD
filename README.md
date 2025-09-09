@@ -32,7 +32,7 @@ _-
 ---
 
 <div align="center">
-  <img src="https://cdn.ironman.my.id/i/9zd4if.jpg" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
+  <img src="https://files.catbox.moe/p2l400.jpg" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
 </div>
 
 ---
