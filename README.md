@@ -3,8 +3,7 @@
 𝐆𝐇𝐀𝐅𝐅𝐀𝐑-𝗠𝗗
 ---
  <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines;POWERED+BY+GHAFFAR-MD;" alt="Typing SVG"/>
-</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines;POWERED+BY+GHAFFAR-MD;" 
 
 ---
 
