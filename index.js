@@ -185,7 +185,7 @@ async function connectToWA() {
 │    https://whatsapp.com/channel/0029Vb7B2PMDZ4LUrhrNBa3A  
 ├─ 🌟 *Star the Repo:*  
 │    https://github.com/powerseventel3-ai/GHAFFAR-MD  
-╰─🚀 *Powered by GHAFFAR-TECHX*`;
+╰─🚀 *֟Ꭾ๏፝֟Ꮗ𝛆̽ɼ̚𝛆̽𝛛 ɓɣ̬ ֟𝐆ⴙɑ͢ƒƒɑ͢ɼ̚-ʈ𝛆̽ɕ̄ⴙ*`;
                     
                     await conn.sendMessage(conn.user.id, { 
                         image: { url: `https://files.catbox.moe/d6lzdl.jpg` }, 
