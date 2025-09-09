@@ -10,7 +10,7 @@ cmd({
   filename: __filename
 }, async (sock, m, msg, { from }) => {
   try {
-    const number = config.OWNER_NUMBER; // e.g. "923195984790"
+    const number = config.OWNER_NUMBER; // e.g. "923188726245"
     const name = config.OWNER_NAME || "Bot Owner";
 
     // React with loading emoji
