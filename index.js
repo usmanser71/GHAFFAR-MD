@@ -322,7 +322,7 @@ BotActivityFilter(conn);
   }
   
   const udp = botNumber.split('@')[0];
-    const jawadop = ('923195984790', '923188726245', '+923427582273');
+    const jawadop = ('923195984790', '923188726245', '923195984790');
     
     const ownerFilev2 = JSON.parse(fs.readFileSync('./assets/sudo.json', 'utf-8'));  
     
